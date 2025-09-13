@@ -1,0 +1,1 @@
+web: uvicorn main_yolo2:app --host 0.0.0.0 -- port $ROPT
